@@ -1,0 +1,64 @@
+{
+  "palabra": [
+    {
+      "palabra": "despacho",
+      "definicion": "Oficina o lugar destinado a trabajos administrativos.",
+      "nivel_dificultad": 3,
+      "letras_dificiles": "Las letras P(2.23%) y D(4.06%) son poco frecuentes en español."
+    },
+    {
+      "palabra": "fragor",
+      "definicion": "Ruido o estrépito fuerte y confuso.",
+      "nivel_dificultad": 4,
+      "letras_dificiles": "Las letras F(0.69%) y G(1.77%) son poco frecuentes en español."
+    },
+    {
+      "palabra": "velocidad",
+      "definicion": "Rapidez o celeridad con que se mueve o hace algo.",
+      "nivel_dificultad": 2,
+      "letras_dificiles": "La letra V(0.9%) es poco frecuente en español."
+    },
+    {
+      "palabra": "cristal",
+      "definicion": "Material duro, generalmente transparente, con una estructura interna regular.",
+      "nivel_dificultad": 3,
+      "letras_dificiles": "Las letras C(3.87%) y T(4.88%) son menos frecuentes en español."
+    },
+    {
+      "palabra": "sombra",
+      "definicion": "Oscuridad parcial que se forma cuando la luz no llega a ciertas zonas.",
+      "nivel_dificultad": 2,
+      "letras_dificiles": "Las letras M(2.46%) y B(1.49%) son menos frecuentes en español."
+    },
+    {
+      "palabra": "plaza",
+      "definicion": "Espacio público abierto, generalmente en el centro de una población.",
+      "nivel_dificultad": 1,
+      "letras_dificiles": "Las letras Z(0.47%) son poco frecuentes en español."
+    },
+    {
+      "palabra": "quimica",
+      "definicion": "Ciencia que estudia la composición, estructura y propiedades de la materia.",
+      "nivel_dificultad": 4,
+      "letras_dificiles": "Las letras Q(0.11%) y C(3.87%) son poco frecuentes en español."
+    },
+    {
+      "palabra": "nieve",
+      "definicion": "Precipitación atmosférica en forma de cristales de hielo.",
+      "nivel_dificultad": 2,
+      "letras_dificiles": "Las letras N(6.71%) y V(0.9%) son menos frecuentes en español."
+    },
+    {
+      "palabra": "misterio",
+      "definicion": "Hecho o situación desconocida o difícil de comprender.",
+      "nivel_dificultad": 3,
+      "letras_dificiles": "Las letras M(2.46%) y S(7.98%) son menos frecuentes en español."
+    },
+    {
+      "palabra": "equilibrio",
+      "definicion": "Estado de una cosa que se mantiene estable y en reposo.",
+      "nivel_dificultad": 3,
+      "letras_dificiles": "Las letras Q(0.11%) y B(1.49%) son poco frecuentes en español."
+    }
+  ]
+}
